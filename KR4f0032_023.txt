@@ -6,7 +6,10 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 23
 #+PROPERTY: FILE SB04n0541-023陳迦陵文集迦陵詞全集-卷第二十三.
+# SB1_1720-066.png
+# page missing
 <pb:KR4f0032_SBCK_023-1a>¶
+# SB1_1720-067.png
 怎奈易醒不如歸擁羅衾懨懨睡過一年寒食¶
 　　秋霽¶
 　　　本意¶

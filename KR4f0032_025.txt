@@ -6,7 +6,10 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 25
 #+PROPERTY: FILE SB04n0541-025陳迦陵文集迦陵詞全集-卷第二十五.
+# SB1_1720-130.png
+# page missing
 <pb:KR4f0032_SBCK_025-1a>¶
+# SB1_1720-131.png
 膏以明煎吾聞其語綿上龍蛇哭子推眞休矣向燈王稽¶
 首埋炤奚疑¶
 　　　同遠公和友人贈答之作¶

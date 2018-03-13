@@ -6,7 +6,10 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 22
 #+PROPERTY: FILE SB04n0541-022陳迦陵文集迦陵詞全集-卷第二十二.
+# SB1_1720-034.png
+# page missing
 <pb:KR4f0032_SBCK_022-1a>¶
+# SB1_1720-035.png
 客舍對秋風强舉金尊又是夕陽西下¶
 　　　竹逸邀同雲臣賞欄前粉芍藥用炊聞詞韻¶
 無瑕虢國有恨明妃一朶千金價&KR0313;盈笑靨倩厨中櫻笋¶
